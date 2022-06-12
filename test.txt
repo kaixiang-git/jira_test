@@ -1,1 +1,3 @@
 hello test!
+
+fun1 --version
